@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/odin-memory-game/static/css/main.469c5407.css",
+    "main.js": "/odin-memory-game/static/js/main.76338f5c.js",
+    "static/media/SiriusBlack.jpg": "/odin-memory-game/static/media/SiriusBlack.a00d8b29e47e9f169598.jpg",
+    "static/media/RonWeasley.jpg": "/odin-memory-game/static/media/RonWeasley.5551385ca8a794f6da8d.jpg",
+    "static/media/HarryPotter.jpg": "/odin-memory-game/static/media/HarryPotter.9166c5c2e7baece3f698.jpg",
+    "static/media/Dumbledore.jpg": "/odin-memory-game/static/media/Dumbledore.540d33518deecb29a19c.jpg",
+    "static/media/MinervaMcGonagall.jpg": "/odin-memory-game/static/media/MinervaMcGonagall.8b178b29d73bafadb903.jpg",
+    "static/media/HermioneGranger.jpg": "/odin-memory-game/static/media/HermioneGranger.9a95e845904c07578da3.jpg",
+    "static/media/NevilleLongbottom.jpg": "/odin-memory-game/static/media/NevilleLongbottom.27d8215aa0757cdffdc6.jpg",
+    "static/media/Hagrid.jpg": "/odin-memory-game/static/media/Hagrid.a47e3ac6fb65ea20517b.jpg",
+    "index.html": "/odin-memory-game/index.html",
+    "main.469c5407.css.map": "/odin-memory-game/static/css/main.469c5407.css.map",
+    "main.76338f5c.js.map": "/odin-memory-game/static/js/main.76338f5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.469c5407.css",
+    "static/js/main.76338f5c.js"
+  ]
+}
